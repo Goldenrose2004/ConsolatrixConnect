@@ -12,18 +12,9 @@ A Digital Handbook information, and chat system for Consolatrix College of Toled
 
 ## Tech Stack
 
-- Tailwind
-- HTML, CSS and JS
+- Tailwind CSS
+- HTML and JS
 
 ## Landing Page
-<img src="assets/images/landingpage.jpg">  
-
-
-
-- React.js
-- Tailwind CSS
-- React Icons
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+<img src="assets/images/Landingpage.jpg">  
+ 
